@@ -104,7 +104,7 @@ Crash Prevention,
 Not pushed by others,
 Hide save menu ,
 
-Update Version: 1.3.1
+Update Version: 1.3.5
 Added new colors!!!
 
 - Credit to Nico and Jay for most of the cheats the plugin wouldnt have been good without them
